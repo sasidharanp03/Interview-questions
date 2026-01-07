@@ -1,0 +1,88 @@
+Basic Java Logic (Testing Focus) 
+1. Write a program to count PASS and FAIL students from an array of 
+marks. 
+Input: {45, 89, 12, 78, 55, 29} 
+Pass = marks ≥ 35 
+2. Given a string, check if it contains only digits. 
+Example: "12345" → true, "12A45" → false 
+3. Reverse each word in a sentence. 
+Input: "Hello World" 
+Output: "olleH dlroW" 
+4. Count number of vowels in a string. 
+5. Remove duplicates from an integer array without using Collections. 
+6. Find the highest and lowest element in an array (manual). 
+7. Write a program to check if two strings are anagrams. 
+Input: "listen", "silent" 
+8. Print numbers from 1 to 100 but skip multiples of 5. 
+9. Swap two numbers without using a third variable. 
+10. Check if a number is prime. 
+
+SECTION B – OOP Scenario Questions 
+11. Create a class Employee with fields name, id, salary. Add a method to 
+display details. 
+12. Create a method overloading example for add() with 2 and 3 
+parameters. 
+13. Create a Student class and print total students using static variable. 
+14. Demonstrate method overriding using Animal → Dog classes. 
+15. Write an example for constructor overloading. 
+16. Explain real-time example of Encapsulation in automation testing. 
+17. Create an interface TestAutomation with method runTest(). Implement 
+it. 
+18. Show an example where abstract class contains both abstract and 
+non-abstract methods. 
+
+SECTION C – Collections Scenario 
+Questions  
+19. Store country names in ArrayList and print only those starting with “I”. 
+20. Remove duplicate employees from ArrayList using Set. 
+21. Use HashMap to store username-password pairs and validate login. 
+22. Given a list of numbers, filter only even numbers using Streams. 
+23. Sort a list of names in alphabetical order using Collections.sort(). 
+24. Check if item exists in ArrayList (manual search and using contains). 
+25. Iterate HashMap using entrySet(). 
+SECTION D – String Handling  
+26. Check if string is palindrome. 
+27. Write a program to count words in a sentence without using split(). 
+28. Remove all special characters from a string. 
+Input: "A@pp!e#123" → Output: "App123" 
+29. Replace multiple spaces with single space. 
+30. Find most repeated character in a string. 
+
+SECTION E – Exception Handling & File 
+Handling 
+31. Write a program to handle divide-by-zero exception. 
+32. Create your own custom exception InvalidAgeException. 
+33. Read a text file line by line and print. 
+34. Write a program to write into a file using FileWriter. 
+35. Try-Catch-Finally block: Demonstrate file closing in finally. 
+
+SECTION F – Selenium/Automation  
+36. Convert a list of WebElements into a list of Strings using Java. 
+37. Wait 5 seconds using Thread.sleep() and handle InterruptedException. 
+38. Create a reusable method to read property file values. 
+39. Parse JSON response using Java JSONObject. 
+40. Split test data: "username,password,role" into variables. 
+
+EXTRA 20 LOGICAL QUESTIONS  
+41. Count uppercase, lowercase, digits, and special characters in a 
+password string. 
+42. Sort array without using Arrays.sort(). 
+43. Move all zeros in array to the end. 
+44. Check if array contains duplicate values. 
+45. Find second highest number in array. 
+46. Merge two arrays manually. 
+47. Check if string starts with vowel. 
+48. Remove all white spaces from a string. 
+49. Compare two strings without equals() method. 
+50. Add numbers inside a string. 
+Example: "a12b3" → Output = 15 
+51. Print Fibonacci series for given count. 
+52. Convert integer to string manually. 
+53. Convert string to integer manually. 
+54. Count occurrences of each character. 
+55. Find longest word in a sentence. 
+56. Display duplicate characters. 
+57. Remove duplicate characters from string. 
+58. Sum of digits in a number. 
+59. Reverse array manually. 
+60. Convert string array to single string. 
